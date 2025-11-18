@@ -11,7 +11,7 @@ public class ModItem {
     public static final DeferredRegister<Item> Items =
             DeferredRegister.create(ForgeRegistries.ITEMS, Louis_First.MOD_ID);
 
-    public static final RegistryObject<Item> Sapphire = Items.register("sapphire",
+    public static final RegistryObject<Item> SAPPHIRE = Items.register("sapphire",
             () -> new Item(new Item.Properties()));
 
     public static final RegistryObject<Item> RAW_SAPPHIRE = Items.register("raw_sapphire",
