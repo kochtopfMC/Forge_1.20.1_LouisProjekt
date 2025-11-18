@@ -1,6 +1,7 @@
 package net.louis.louis_first;
 
 import com.mojang.logging.LogUtils;
+import net.louis.louis_first.item.ModItem;
 import net.minecraft.world.level.block.Blocks;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
@@ -29,6 +30,8 @@ public class Louis_First
     public Louis_First(FMLJavaModLoadingContext context)
     {
         IEventBus modEventBus = context.getModEventBus();
+
+        ModItem.register(modEventBus);
 
         // Register the commonSetup method for modloading
         modEventBus.addListener(this::commonSetup);
