@@ -18,7 +18,7 @@ import org.slf4j.Logger;
 
 // The value here should match an entry in the META-INF/mods.toml file
 @Mod(Louis_First.MOD_ID)
-public class Louis_First
+public class Louis_Firs
 {
     // Define mod id in a common place for everything to reference
     public static final String MOD_ID = "louis_first";
