@@ -2,6 +2,7 @@ package net.louis.louis_first;
 
 import com.mojang.logging.LogUtils;
 import net.louis.louis_first.item.ModItem;
+import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraft.world.level.block.Blocks;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
@@ -51,8 +52,10 @@ public class Louis_First
     }
 
     // Add the example block item to the building blocks tab
-    private void addCreative(BuildCreativeModeTabContentsEvent event)
-    {
+    private void addCreative(BuildCreativeModeTabContentsEvent event){
+        if(event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
+            event.accept(ModItem.Sapphire);
+        }
 
     }
 
