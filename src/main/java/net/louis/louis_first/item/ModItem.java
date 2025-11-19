@@ -1,6 +1,7 @@
 package net.louis.louis_first.item;
 
 import net.louis.louis_first.Louis_First;
+import net.louis.louis_first.item.custom.FuelItem;
 import net.louis.louis_first.item.custom.MetalDetectorItem;
 import net.minecraft.world.item.Item;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -23,6 +24,9 @@ public class ModItem {
 
     public static final RegistryObject<Item> STRAWBERRY = Items.register("strawberry",
             () -> new Item(new Item.Properties().food(ModFoods.STRAWBERRY)));
+
+    public static final RegistryObject<Item> PINE_CONE = Items.register("pine_cone",
+            () -> new FuelItem(new Item.Properties(), 200));
 
     public static void register(IEventBus eventBus) {
         Items.register(eventBus);
