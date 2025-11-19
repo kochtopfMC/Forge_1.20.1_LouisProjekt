@@ -1,5 +1,6 @@
 {
   "item.louis_first.sapphire": "Sapphire",
   "item.louis_first.raw_sapphire": "Raw Sapphire",
-  "creativetab.more_ores": "More Ores"
+  "creativetab.more_ores": "More Ores",
+  "block.louis_first.sapphire_block" : "Sapphire Block"
 }
