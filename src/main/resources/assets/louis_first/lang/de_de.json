@@ -4,6 +4,7 @@
   "creativetab.more_ores": "Extra Erze",
   "block.louis_first.sapphire_block" : "Saphir Block",
   "block.louis_first.raw_sapphire_block" : "Roher Saphir Block",
-  "block.louis_first.sapphire_ore": "Saphir Erz"
+  "block.louis_first.sapphire_ore": "Saphir Erz",
+  "item.louis_first.metal_detector": "Metall Detektor"
 
 }

@@ -19,7 +19,7 @@ public class ModItem {
             () -> new Item(new Item.Properties()));
 
     public static final RegistryObject<Item> METAL_DETECTOR = Items.register("metal_detector",
-            () -> new MetalDetectorItem(new Item.Properties().durability(100).stacksTo(1)));
+            () -> new MetalDetectorItem(new Item.Properties().durability(100)));
 
     public static void register(IEventBus eventBus) {
         Items.register(eventBus);

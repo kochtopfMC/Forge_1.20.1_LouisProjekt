@@ -4,6 +4,7 @@
   "creativetab.more_ores": "More Ores",
   "block.louis_first.sapphire_block" : "Sapphire Block",
   "block.louis_first.raw_sapphire_block" : "Raw Sapphire Block",
-  "block.louis_first.sapphire_ore": "Sapphire Ore"
+  "block.louis_first.sapphire_ore": "Sapphire Ore",
+  "item.louis_first.metal_detector": "Metal Detector"
 
 }
