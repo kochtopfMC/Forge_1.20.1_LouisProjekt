@@ -1,6 +1,8 @@
 package net.louis.louis_first;
 
 import com.mojang.logging.LogUtils;
+import net.louis.louis_first.block.ModBlocks;
+import net.louis.louis_first.item.ModCreativeModeTabs;
 import net.louis.louis_first.item.ModItem;
 import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraft.world.level.block.Blocks;
@@ -32,7 +34,10 @@ public class Louis_First
     {
         IEventBus modEventBus = context.getModEventBus();
 
+        ModCreativeModeTabs.register(modEventBus);
+
         ModItem.register(modEventBus);
+        ModBlocks.register(modEventBus);
 
         // Register the commonSetup method for modloading
         modEventBus.addListener(this::commonSetup);
