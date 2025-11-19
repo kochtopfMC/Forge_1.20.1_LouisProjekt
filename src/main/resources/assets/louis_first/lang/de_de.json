@@ -2,5 +2,7 @@
   "item.louis_first.sapphire": "Saphir",
   "item.louis_first.raw_sapphire": "Roher Saphir",
   "creativetab.more_ores": "Extra Erze",
-  "block.louis_first.sapphire_block" : "Saphir Block"
+  "block.louis_first.sapphire_block" : "Saphir Block",
+  "block.louis_first.raw_sapphire_block" : "Roher Saphir Block"
+
 }
