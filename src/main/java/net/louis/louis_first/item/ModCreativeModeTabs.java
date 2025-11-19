@@ -1,6 +1,7 @@
 package net.louis.louis_first.item;
 
 import net.louis.louis_first.Louis_First;
+import net.louis.louis_first.block.ModBlocks;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.CreativeModeTab;
@@ -20,6 +21,7 @@ public class ModCreativeModeTabs {
                     .displayItems((itemDisplayParameters, output) -> {
                         output.accept(ModItem.SAPPHIRE.get());
                         output.accept(ModItem.RAW_SAPPHIRE.get());
+                        output.accept(ModBlocks.SAPPHIRE_BLOCK.get());
                     })
                     .build());
 
