@@ -26,6 +26,9 @@ public class ModCreativeModeTabs {
                         output.accept(ModBlocks.SAPPHIRE_ORE.get());
 
                         output.accept(ModItem.METAL_DETECTOR.get());
+                        output.accept(ModBlocks.SOUND_BLOCK.get());
+
+                        output.accept(ModItem.STRAWBERRY.get());
                     })
                     .build());
 

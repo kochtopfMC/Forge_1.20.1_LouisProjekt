@@ -5,6 +5,8 @@
   "block.louis_first.sapphire_block" : "Saphir Block",
   "block.louis_first.raw_sapphire_block" : "Roher Saphir Block",
   "block.louis_first.sapphire_ore": "Saphir Erz",
-  "item.louis_first.metal_detector": "Metall Detektor"
+  "item.louis_first.metal_detector": "Metall Detektor",
+  "item.louis_first.strawberry": "Erdbeere",
+  "block.louis_first.sound_block": "Sound Block"
 
 }
