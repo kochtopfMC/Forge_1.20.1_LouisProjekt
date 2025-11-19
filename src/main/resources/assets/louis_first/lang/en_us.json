@@ -8,6 +8,8 @@
   "item.louis_first.metal_detector": "Metal Detector",
   "block.louis_first.sound_block": "Sound Block",
   "item.louis_first.strawberry": "Strawberry",
-  "item.louis_first.pine_cone": "Pine Cone"
+  "item.louis_first.pine_cone": "Pine Cone",
+  "tooltip.louis_first.metal_detector" : "Finds Underground Treasure",
+  "tooltip.louis_first.sound_block" : "Plays a Sound when Clicked"
 
 }

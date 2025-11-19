@@ -8,6 +8,8 @@
   "item.louis_first.metal_detector": "Metall Detektor",
   "item.louis_first.strawberry": "Erdbeere",
   "block.louis_first.sound_block": "Sound Block",
-  "item.louis_first.pine_cone": "Tannen Zapfen"
+  "item.louis_first.pine_cone": "Tannen Zapfen",
+  "tooltip.louis_first.metal_detector" : "Findet Vergrabene Schätze",
+  "tooltip.louis_first.sound_block" : "Spielt bei Clicken ein Geräusch ab"
 
 }
