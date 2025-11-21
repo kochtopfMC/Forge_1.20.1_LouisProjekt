@@ -1,6 +1,15 @@
-// 1.20.1	2025-11-19T20:48:53.488397	Item Models: louis_first
+// 1.20.1	2025-11-21T14:15:42.3975684	Item Models: louis_first
 b8ff35163838d63f2fd3662ef80ffdf6444bdb39 assets/louis_first/models/item/metal_detector.json
 7541c8f9ab8bcdb37464d119d8bfe7dfd299688a assets/louis_first/models/item/pine_cone.json
 a3f65fcccd2d5dc693077d6ce96c44718468ded7 assets/louis_first/models/item/raw_sapphire.json
 355a559e7097e9a15c26744bfe96659fefb137db assets/louis_first/models/item/sapphire.json
+c303e15d9c6544c3cbb8ab5034463f3ff695d5b2 assets/louis_first/models/item/sapphire_button.json
+732979fc36374e37c13ad8c368ee9220efd0d374 assets/louis_first/models/item/sapphire_door.json
+e90b6614594abf4c65890e1439e7c2a96dc02178 assets/louis_first/models/item/sapphire_fence.json
+66e2ffdd2b23824e04e53e75212a149bce4bd7d8 assets/louis_first/models/item/sapphire_fence_gate.json
+d5c89c5dc0dc77024032216a162516dfd4194222 assets/louis_first/models/item/sapphire_pressure_plate.json
+9a6add50e3e679c0a4dbb719b3314caff013e980 assets/louis_first/models/item/sapphire_slab.json
+64359e831e7e45a349d83f23f242b9ac74cb82d6 assets/louis_first/models/item/sapphire_stairs.json
+05049bbdb06376f2e1e85eff8707296e33514dc2 assets/louis_first/models/item/sapphire_trapdoor.json
+d9c1203d00cd3256bc055f1026149390f46437d7 assets/louis_first/models/item/sapphire_wall.json
 664b43d1b9afd4577024db731dd0fa23528ce8fd assets/louis_first/models/item/strawberry.json

@@ -1,5 +1,14 @@
-// 1.20.1	2025-11-19T20:48:53.4903887	Loot Tables
+// 1.20.1	2025-11-21T14:15:42.3975684	Loot Tables
 1a14411c71ed793592c5af300b828ae15413a313 data/louis_first/loot_tables/blocks/raw_sapphire_block.json
 ef59881f155bec509f4028c845a8159c244b987e data/louis_first/loot_tables/blocks/sapphire_block.json
+d66f76cc0b95f4b2df32844223eb84425c69529c data/louis_first/loot_tables/blocks/sapphire_button.json
+aaf76aaa99fd1988ee1c70cde5ed09652331256a data/louis_first/loot_tables/blocks/sapphire_door.json
+cd7e209b36552aefda32193dd2d48b22f3f2868b data/louis_first/loot_tables/blocks/sapphire_fence.json
+3a319332d4accb14b0057fae260e9aec91858a8c data/louis_first/loot_tables/blocks/sapphire_fence_gate.json
 5091274006b47a1ae022755309cd644cf3b76180 data/louis_first/loot_tables/blocks/sapphire_ore.json
+d957c1fd8f76cae2fef0e1e13c31821635c68830 data/louis_first/loot_tables/blocks/sapphire_pressure_plate.json
+6c9dd0947235bb800d708f31dccc3b88df4095b6 data/louis_first/loot_tables/blocks/sapphire_slab.json
+b7c26f2251eba0c034b7ba2b3425c0d8b6c4c5b3 data/louis_first/loot_tables/blocks/sapphire_stairs.json
+1327c79a72e26a7a82f421746522599cf6b82b22 data/louis_first/loot_tables/blocks/sapphire_trapdoor.json
+ccb80875ee31e2f3eeec86de0e65e5f995454f8b data/louis_first/loot_tables/blocks/sapphire_wall.json
 8043724ac54506da627888796a3be7b527dde79b data/louis_first/loot_tables/blocks/sound_block.json

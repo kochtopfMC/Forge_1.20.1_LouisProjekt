@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/door_bottom_left_open",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "bottom": "louis_first:block/sapphire_door_bottom",
+    "top": "louis_first:block/sapphire_door_top"
+  }
+}
