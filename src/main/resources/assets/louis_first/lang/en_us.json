@@ -11,6 +11,16 @@
   "item.louis_first.pine_cone": "Pine Cone",
   "tooltip.louis_first.metal_detector" : "Finds Underground Treasure",
   "tooltip.louis_first.sound_block" : "Plays a Sound when Clicked",
-  "message.louis_first.metal_detector.nothing": "Nothing Valuable Found"
+  "message.louis_first.metal_detector.nothing": "Nothing Valuable Found",
+
+  "block.louis.first.sapphire_door": "Sapphire Door",
+  "block.louis.first.sapphire_trapdoor": "Sapphire Trapdoor",
+  "block.louis.first.sapphire_fence": "Sapphire Fence",
+  "block.louis.first.sapphire_fence_gate": "Sapphire Fence Gate",
+  "block.louis.first.sapphire_stairs": "Sapphire Stairs",
+  "block.louis.first.sapphire_slab": "Sapphire Slab",
+  "block.louis.first.sapphire_button": "Sapphire Button",
+  "block.louis.first.sapphire_pressure_plate": "Sapphire Pressure Plate",
+  "block.louis.first.sapphire_wall": "Sapphire Wall"
 
 }

@@ -1,0 +1,13 @@
+// 1.20.1	2025-11-19T20:48:53.4878959	Block States: louis_first
+ba5617caf6d002433611627a1139fa27f8a7550d assets/louis_first/blockstates/raw_sapphire_block.json
+ae345631698b691ba756343bcb67d561de5ae443 assets/louis_first/blockstates/sapphire_block.json
+e204f45b1556ecc4ac0a5010844935bd1fd3a4a9 assets/louis_first/blockstates/sapphire_ore.json
+5bb43e2cc1349eb7606aeda15d2a4969cd606965 assets/louis_first/blockstates/sound_block.json
+08f5f402f874bf9ddf8073283c369ef1ab3997c3 assets/louis_first/models/block/raw_sapphire_block.json
+5ed46a8dea9d525b7ed5ce97af3c9021802be9f4 assets/louis_first/models/block/sapphire_block.json
+832ee66611b7cfa02fed46828a8b9e949a2919df assets/louis_first/models/block/sapphire_ore.json
+5059a4e3368c8479c98124e8dcb5cb5328076c86 assets/louis_first/models/block/sound_block.json
+fb5f2d2e57103b49e10730602582f0ecb2f8bc31 assets/louis_first/models/item/raw_sapphire_block.json
+816a4d8138eb325bc44db4944c945fc030af1c87 assets/louis_first/models/item/sapphire_block.json
+f51984c77eacc6c90d07618671ec34a922eb4ef7 assets/louis_first/models/item/sapphire_ore.json
+a8743ed8768e243006f1f7732eb6bfb1af9456f3 assets/louis_first/models/item/sound_block.json
